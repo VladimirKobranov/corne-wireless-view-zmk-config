@@ -67,6 +67,8 @@
 &kp Z  &kp X  &kp C  &kp V     &kp B  &kp N        &kp M    &kp COMMA  &kp DOT   &kp FSLH  &kp DOT    &kp LSHFT
                      &kp LGUI  &mo 1  &kp SPACE    &kp RET  &mo 2      &kp LALT
             >;
+
+            label = "l3";
         };
     };
 };
